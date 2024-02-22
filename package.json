@@ -1,0 +1,25 @@
+{
+  "name": "testui-rs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "@tauri-apps/api": "^1.5.2",
+    "core-js": "^3.36.0",
+    "material-design-icons-iconfont": "^6.7.0",
+    "vue": "^3.3.4",
+    "vuetify": "^3.5.4"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.8",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^5.0.0"
+  }
+}
